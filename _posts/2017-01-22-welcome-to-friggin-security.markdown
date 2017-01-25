@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Welcome to Friggin' Security
+category: General
+feature_text: |
+  ## Welcome
+  Where I say hello and lay out my expectations
+excerpt: |
+  This is my first post, and really just a test to make sure I have this thing set up correctly. But, since I'm here, I'd like to say a few things about what I intend for this blog.
 ---
 ### Welcome
 
