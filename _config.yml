@@ -49,7 +49,7 @@ sass:
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: America/New_York # Timezone for blog posts and alike
-destination: /var/www/html/
+#destination: /var/www/html/
 
 # 5. Collections
 collections:
@@ -95,7 +95,7 @@ navigation_header:
   Blog: /blog/
 
 navigation_footer:
-  Words by Dan Bearl: https://www.danielbearl.com
+  Words by Dan Bearl, built with Jekyll and Alembic: https://www.danielbearl.com
 
 social_links:
   Twitter: https://twitter.com/danbearl
