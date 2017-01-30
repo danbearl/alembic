@@ -48,3 +48,6 @@ Don't worry. You don't have to! There are many products available that will do a
 There are several options for password managers. I use [https://1password.com/](https://1password.com/), but for more choices check out [PC Magazine's Roundup of the best offerings for 2017](http://www.pcmag.com/article2/0,2817,2407168,00.asp)). Whichever one you choose, they all offer the same core function: to securely store and organize your passwords so that you don't have to keep them all memorized. Most will even generate strong, random passwords for you, and auto-fill login forms on your Web browser, so you can access your sites with the click of a button. Simply using a password manager will make following my two essential password rules a no-brainer.
 
 It is a little disheartening that so many people on the Internet do not take their security as seriously as they could, but the bright side is that we can learn from this and take inspiration to be responsible for our own security. I hope you have already been using good password practices, but if not, there's no better time to start than today!
+
+Further reading:
+* [Americans and Cybersecurity](http://www.pewinternet.org/2017/01/26/americans-and-cybersecurity/)
